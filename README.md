@@ -1,24 +1,10 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 # Egg Timer
 
-## Our Goal
+## Özet
+Swift programlama ilerledikçe ve ios dünyasını öğrenme yolculuğunda başladığı zarda Dr.Angela Yu swift video serisinde sahip olduğu yumurta pişirme zamanlama uygulaması. Uygulama bir adet viewController ve bir adet splashScreen yapısında bulunur. Eğitim içerisinde bize ürettiğimiz ve github üzerinden indirdiğim iskelet proje yapısı üzerine stoaryboard üzerinden tasarımlarımı kaybettikten sonra görüntü hattını ilgili viewController yapılandırmasını bağladım. Bu projem de bütün button yapılarını tek bir IBoutlet üzerine bağlamayı ve hangi button yapısına tıkladığımı sender parametresi ile almayı öğrendim. Ayrıca AVFoundation ve AVAuido yapıları ile duruma bağlı zamanlama süresi bitince alarmın çalması için muzik dosyaları yerleştirdim bu koşulları if_else yapısı ile kontrol ettim.
 
-This module will be a mix of tutorials and challenges. Most importantly, we want you to get comfortable with looking up how to do something you've never done before. In certain places of this module, you’ll need to follow the 5 step process you learnt in the Xylophone module and use Google search, StackOverflow and Apple Documentation to make your code do what you want it to. But there are also other parts where we’ll take you step-by-step through new Swift programming concepts. 
 
-## What You'll Make
-
-You’ll be building a beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs. 
-
-## What you will learn
-
-* Swift Collection types - Dictionaries
-* The Swift Timer API
-* Conditional statements - IF/ELSE
-* Conditional statements - Switch
-* Functions with outputs
-* How to use the ProgressView
+<img src="https://i.hizliresim.com/7hhj3pv.png" width="280" height="500"> <img src="https://i.hizliresim.com/oylesp9.png" width="280" height="500"> <img src="https://i.hizliresim.com/bey4wu2.png" width="280" height="500">
 
 
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co]
